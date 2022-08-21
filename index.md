@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+tittle: MGT5014 Page Project
 ---
 
