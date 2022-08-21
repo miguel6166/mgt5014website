@@ -1,4 +1,4 @@
 ---
-tittle: MGT5014 Page Project
+MGT5014 Page Project
 ---
 
